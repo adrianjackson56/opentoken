@@ -1,6 +1,6 @@
 {
   "name": "opentoken",
-  "version": "0.1.45",
+  "version": "0.1.46",
   "description": "Token-saving companion for OpenCode \u2014 42 compression layers, zero risk, no caveman speak",
   "main": "src/index.ts",
   "scripts": {
